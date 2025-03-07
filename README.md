@@ -27,4 +27,4 @@ ShiftDispatcher est une application Android qui génère automatiquement le plan
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/<ton-utilisateur>/ShiftDispatcher.git
+   git clone https://github.com/insanitymod/Shift-Dispatcher.git
